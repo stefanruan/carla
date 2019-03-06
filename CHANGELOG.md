@@ -1,3 +1,6 @@
+
+  * Add timestamp to SensorData
+
 ## CARLA 0.9.4
 
   * Added recording and playback functionality
